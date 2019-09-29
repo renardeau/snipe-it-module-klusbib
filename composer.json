@@ -9,5 +9,8 @@
     "klusbib",
     "tool-library"
   ],
-  "license": "AGPL-3.0-or-later"
+  "license": "AGPL-3.0-or-later",
+  "require" : {
+    "nwidart/laravel-modules": "^4.1"
+  }
 }
