@@ -12,5 +12,10 @@
   "license": "AGPL-3.0-or-later",
   "require" : {
     "nwidart/laravel-modules": "^4.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Modules\\Klusbib\\": ""
+    }
   }
 }
