@@ -13,7 +13,7 @@
     <table
             data-advanced-search="true"
             data-click-to-select="true"
-            data-columns="{{ \Modules\Klusbib\Presenters\ToolPresenter::dataTableLayout() }}"
+            data-columns="{{ \Klusbib\Modules\Presenters\ToolPresenter::dataTableLayout() }}"
             data-cookie-id-table="assetsListingTable"
             data-pagination="true"
             data-id-table="assetsListingTable"
@@ -29,7 +29,7 @@
             data-toolbar="#toolbar"
             id="assetsListingTable"
             class="table table-striped snipe-table"
-            {{--data-url="Modules/Klusbib/data.json"--}}
+            {{--data-url="Modules/Modules/data.json"--}}
             data-url="http://klusbibapi/tools"
             data-export-options='{
                 "fileName": "export{{ (Input::has('status')) ? '-'.str_slug(Input::get('status')) : '' }}-assets-{{ date('Y-m-d') }}",

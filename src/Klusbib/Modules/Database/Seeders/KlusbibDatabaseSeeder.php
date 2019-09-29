@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Klusbib\Database\Seeders;
+namespace Klusbib\Modules\Database\Seeders;
 
 use Illuminate\Database\Seeder;
 use Illuminate\Database\Eloquent\Model;

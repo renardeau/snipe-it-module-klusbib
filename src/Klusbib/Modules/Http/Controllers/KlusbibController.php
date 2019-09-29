@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Klusbib\Http\Controllers;
+namespace Klusbib\Modules\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;

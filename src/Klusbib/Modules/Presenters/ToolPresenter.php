@@ -1,5 +1,5 @@
 <?php
-namespace Modules\Klusbib\Presenters;
+namespace Klusbib\Modules\Presenters;
 
 use App\Models\CustomField;
 use App\Presenters\Presenter;
@@ -7,7 +7,7 @@ use DateTime;
 
 /**
  * Class ToolPresenter
- * @package Modules\Klusbib\Presenters
+ * @package Modules\Modules\Presenters
  */
 class ToolPresenter extends Presenter
 {

@@ -4,7 +4,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Modules\\Klusbib\\Providers\\KlusbibServiceProvider"
+                "Klusbib\\Modules\\Providers\\KlusbibServiceProvider"
             ],
             "aliases": {
                 
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Modules\\Klusbib\\": ""
+            "Klusbib\\Modules\\": "src"
         }
     }
 }

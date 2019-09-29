@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Klusbib\Providers;
+namespace Klusbib\Modules\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Database\Eloquent\Factory;

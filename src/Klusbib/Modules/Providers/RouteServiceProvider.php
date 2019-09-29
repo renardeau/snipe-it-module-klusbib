@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Klusbib\Providers;
+namespace Klusbib\Modules\Providers;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Foundation\Support\Providers\RouteServiceProvider as ServiceProvider;
@@ -12,7 +12,7 @@ class RouteServiceProvider extends ServiceProvider
      *
      * @var string
      */
-    protected $namespace = 'Modules\Klusbib\Http\Controllers';
+    protected $namespace = 'Modules\Modules\Http\Controllers';
 
     /**
      * Called before routes are registered.
