@@ -1,0 +1,32 @@
+{"total":2,
+  "rows":
+  [
+    {"id":1,"name":"","asset_tag":"TST-000-19-001","serial":"","model":{"id":1,"name":"Test model"},
+      "model_number":"Test-1234","eol":null,"status_label":{"id":2,"name":"Beschikbaar","status_type":"deployable","status_meta":"deployed"},
+      "category":{"id":2,"name":"Mocks"},"manufacturer":{"id":1,"name":"Mock Factory"},"supplier":null,"notes":null,
+      "order_number":null,"company":{"id":1,"name":"Klusbib"},"location":null,"rtd_location":null,"image":null,
+      "assigned_to":{"id":13,"username":"anything","name":"TEST BUTAYE","first_name":"TEST","last_name":"BUTAYE",
+        "employee_number":"999","type":"user"},"warranty_months":null,"warranty_expires":null,
+      "created_at":{"datetime":"2019-06-11 21:39:12","formatted":"2019-06-11 09:39 PM"},
+      "updated_at":{"datetime":"2019-09-11 20:15:02","formatted":"2019-09-11 08:15 PM"},
+      "last_audit_date":null,"next_audit_date":null,"deleted_at":null,"purchase_date":null,
+      "last_checkout":{"datetime":"2019-09-10 20:37:00","formatted":"2019-09-10 08:37 PM"},
+      "expected_checkin":{"date":"2019-09-18","formatted":"2019-09-18"},
+      "purchase_cost":null,"checkin_counter":7,"checkout_counter":3,"requests_counter":0,
+      "user_can_checkout":false,"custom_fields":[],
+      "available_actions":{"checkout":true,"checkin":true,"clone":true,"restore":false,"update":true,"delete":true}},
+    {"id":2,"name":"","asset_tag":"KB-001-19-001","serial":"","model":{"id":1,"name":"Test model"},
+      "model_number":"Test-1234","eol":null,"status_label":{"id":2,"name":"Beschikbaar","status_type":"deployable","status_meta":"deployed"},
+      "category":{"id":2,"name":"Mocks"},"manufacturer":{"id":1,"name":"Mock Factory"},"supplier":null,"notes":null,
+      "order_number":null,"company":{"id":1,"name":"Klusbib"},"location":null,"rtd_location":null,"image":null,
+      "assigned_to":{"id":9,"username":"bernard@butayebouwens.be","name":"TEST-BUTAYE BUTAYE","first_name":"TEST-BUTAYE","last_name":"BUTAYE",
+        "employee_number":"3","type":"user"},"warranty_months":null,"warranty_expires":null,
+      "created_at":{"datetime":"2019-06-16 21:17:39","formatted":"2019-06-16 09:17 PM"},
+      "updated_at":{"datetime":"2019-09-11 19:56:54","formatted":"2019-09-11 07:56 PM"},
+      "last_audit_date":null,"next_audit_date":null,"deleted_at":null,"purchase_date":null,
+      "last_checkout":{"datetime":"2019-09-11 19:56:54","formatted":"2019-09-11 07:56 PM"},
+      "expected_checkin":null,"purchase_cost":null,"checkin_counter":1,"checkout_counter":2,
+      "requests_counter":0,"user_can_checkout":false,"custom_fields":[],
+      "available_actions":{"checkout":true,"checkin":true,"clone":true,"restore":false,"update":true,"delete":true}}
+  ]
+}

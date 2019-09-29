@@ -1,0 +1,19 @@
+{
+    "name": "renardeau/klusbib-module",
+    "description": "",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Klusbib\\Providers\\KlusbibServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Klusbib\\": ""
+        }
+    }
+}

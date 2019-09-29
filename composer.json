@@ -1,0 +1,13 @@
+{
+  "name": "renardeau/snipe-it-module-klusbib",
+  "description": "Snipe-it extension module for tool libraries.",
+  "keywords": [
+    "assets",
+    "asset-management",
+    "laravel",
+    "snipe-it",
+    "klusbib",
+    "tool-library"
+  ],
+  "license": "AGPL-3.0-or-later"
+}
